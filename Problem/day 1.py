@@ -14,5 +14,5 @@ class Solution:
     for i, num in enumerate(nums): # Parcourt tous les nombres avec leur indice
       complément = target - num # Calcul du complément nécessaire pour atteindre la cible
       if complément in dictionnaire: # Vérifie si le complément existe déjà dans le dictionnaire
-        return [dictionnaire[compl], i] # Si oui, on retourne les indices des deux nombres
+        return [dictionnaire[complément], i] # Si oui, on retourne les indices des deux nombres
       dictionnaire[num] = i # Sinon, ajoute le nombre actuel au dictionnaire pour futur usage
