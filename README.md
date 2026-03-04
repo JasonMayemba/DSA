@@ -25,15 +25,4 @@ Every day, I solve a LeetCode problem to improve my **Data Structures & Algorith
 
 ---
 
-## Notes & Patterns
-
-See [Notes/patterns.md](Notes/patterns.md) for recurring algorithmic patterns like:
-
-- Sliding Window  
-- Two Pointers  
-- Depth-First Search / Breadth-First Search  
-- Dynamic Programming  
-
----
-
 Happy coding! 💻🔥
