@@ -1,12 +1,12 @@
 """
 2. Add Two Numbers
 difficulté : medium
-
+# Time:  O(n)
+# Space: O(1)
 
 """
 
-# Time:  O(n)
-# Space: O(1)
+
 
 class ListNode(object):
     def __init__(self, x):
